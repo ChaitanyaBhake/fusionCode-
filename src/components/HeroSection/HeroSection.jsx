@@ -1,4 +1,4 @@
-import hero from '../../assets/HeroSectionImages/hero.png';
+import hero from '../../assets/heroSectionImages/hero.png';
 import heroMobile from '../../assets/HeroSectionImages/heroMobile.png';
 import Button from '../../utils/Button';
 
